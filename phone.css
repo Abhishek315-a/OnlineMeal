@@ -16,10 +16,10 @@
     width: 185px;
 }
 #home{
-    height: 390px;
+    height: 400px;
 }
 #home::before {
-    height: 78%;
+    height: 74%;
 }
 #home h1{
     font-size: 2rem;
