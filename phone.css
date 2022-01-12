@@ -1,0 +1,47 @@
+.navbar{
+    flex-direction: column;
+}
+.srvcontainer{
+    flex-direction: column;
+}
+.logo img {
+    width: 50px;
+    height: 50px;
+    border-radius: 90px;
+    margin: 4px 1px;
+}
+.box img{
+    height: 200px;
+    width: 294px;
+}
+#home{
+    height: 390px;
+}
+#home::before {
+    height: 78%;
+}
+#home h1{
+    font-size: 2rem;
+}
+#home p {
+    font-size: 1.1rem;
+}
+.box{
+    margin: 25px;
+}
+.contact-box input,
+.contact-box textarea{
+     width: 90%;
+}
+.hser{
+    font-size: 2.0rem;
+}
+.nav ul li a{
+    margin: 4px 13px;
+}
+.cl1{
+    font-size: 2.0rem;
+}
+.contact h1{
+    font-size: 2.0rem;
+}
