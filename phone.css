@@ -3,6 +3,7 @@
 }
 .srvcontainer{
     flex-direction: column;
+    box-sizing: border-box;
 }
 .logo img {
     width: 50px;
@@ -11,8 +12,8 @@
     margin: 4px 1px;
 }
 .box img{
-    height: 170px;
-    width: 225px;
+    height: 160px;
+    width: 185px;
 }
 #home{
     height: 390px;
@@ -37,7 +38,7 @@
     font-size: 2.0rem;
 }
 .nav ul li a{
-    margin: 4px 5px;
+    margin: 0px 0px;
 }
 .cl1{
     font-size: 2.0rem;
