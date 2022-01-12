@@ -46,6 +46,6 @@
 .contact h1{
     font-size: 2.0rem;
 }
-cl{
-    overflow: hidden;
+.item img {
+    width: 95px;
 }
